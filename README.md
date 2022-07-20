@@ -1,2 +1,2 @@
-# Google-Images-Scraper
-Scrapes an image from a query in terminal.
+# Google-Images-Downloader
+Scrapes images from a query in terminal, then downloads the images.
