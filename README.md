@@ -1,5 +1,7 @@
 # Google-Images-Downloader
 
+![Alt text](assets/gimage.png "G-Image Scraper")
+
 Scrapes images from a query in terminal, then downloads the images. Search anything from cats to adult search queries.
 
 Amount of images downloaded can be set in the "pages" variable. 
